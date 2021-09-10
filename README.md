@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zitronekoma30
+- 👋 Hi, I’m Leon
 - 👀 I’m interested in: Game Programming and Machine Learning
 - 🌱 I’m currently learning: MonoGame
 - 📫 How to reach me: @Zitronekoma50 on Twitter
