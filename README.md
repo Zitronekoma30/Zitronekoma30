@@ -8,3 +8,5 @@
 Machine Learning | Embedded Systems | Distributed Systems
 
 Feel free to check out some of my projects below or get in touch.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronekoma30&layout=compact)
