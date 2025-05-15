@@ -1,5 +1,3 @@
-Hi, I'm Leon.
-
 ### Experience
 - Research: Dynamic target values in classification networks
 - Biometric AI: Vascular image classification (image processing, ML)
