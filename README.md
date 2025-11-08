@@ -1,5 +1,5 @@
 ### Experience
-- Research: Temporal Robustness of malware image classification using CNNs
+- Research: Temporal robustness of malware image classification using CNNs
 - Biometric AI: Vascular image classification (image processing, ML)
 - Internships: Implemented OPC-UA for industrial automation systems
 - Misc: Backend microservices, API integrations
